@@ -1,6 +1,6 @@
 # TELA DE LOGIN
 
-![preview](./.github/preview.png)
+![login](./.github/login.png)
 
 > Treinando fundamentos
 
