@@ -6,7 +6,7 @@
 
 Esse projeto foi construido para praticar conceitos básicos de programação web.
 
-A imagem do astronauto foi adicionada com animação.
+A imagem do astronauta foi adicionada com animação.
 
 
 ## Tecnologias
